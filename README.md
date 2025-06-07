@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abdullahi
 - 👀 I’m interested in technology, sports and gaming.
 - 🌱 I’m currently studying Computer Science at UC Berkeley
-- 📫 How to reach me ... abdullahi@berkeley.edu
+- 📫 How to reach me ... abdullahiaden619@gmail.com
 
 
 <!---
